@@ -1,0 +1,43 @@
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\bin\Debug\net6.0\DL.deps.json
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\bin\Debug\net6.0\DL.dll
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\bin\Debug\net6.0\DL.pdb
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\bin\Debug\net6.0\Entities.dll
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\bin\Debug\net6.0\Entities.pdb
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.AssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.csproj.CopyComplete
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.dll
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\refint\DL.dll
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\DL.pdb
+C:\Users\user1\Desktop\שנה ב\.net core\project.net סופי עובד\DL\obj\Debug\net6.0\ref\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\bin\Debug\net6.0\DL.deps.json
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\bin\Debug\net6.0\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\bin\Debug\net6.0\DL.pdb
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.AssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\refint\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.pdb
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\ref\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\bin\Debug\net6.0\DL.runtimeconfig.json
+C:\Users\user1\Desktop\שנה ב\.NET Core\דוטנט שיעור 7 אחרוןן\project.net with classes\DL\obj\Debug\net6.0\DL.genruntimeconfig.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\bin\Debug\net6.0\DL.deps.json
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\bin\Debug\net6.0\DL.runtimeconfig.json
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\bin\Debug\net6.0\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\bin\Debug\net6.0\DL.pdb
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.AssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\refint\DL.dll
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.pdb
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\DL.genruntimeconfig.cache
+C:\Users\user1\Desktop\שנה ב\.NET Core\my-project\DL\obj\Debug\net6.0\ref\DL.dll
