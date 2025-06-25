@@ -6,7 +6,7 @@ namespace BL.InterfacesServices
     {
         void AddBaby(int id, string name, DateTime birthDate);
         Baby GetBabyById(int id);
-        List<Baby> GetAllBabies();
+        IEnumerable<Baby> GetAllBabies();
         void RemoveBaby(int id);
         void UpdateBaby(int id, string name, DateTime birthDate);
     }

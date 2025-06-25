@@ -37,9 +37,9 @@ namespace BL
             return _context.Appointments.FirstOrDefault(a => a.Id == id);
         }
 
-        public List<Appointment> GetAllAppointments()
+        public IEnumerable<Appointment> GetAllAppointments()
         {
-            return _context.Appointments.ToList();
+            return _context.Appointments;
         }
 
         public void RemoveAppointment(int id)

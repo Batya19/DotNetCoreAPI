@@ -6,7 +6,7 @@ namespace BL.InterfacesServices
     {
         void AddAppointment(int id, int babyId, int nurseId, DateTime appointmentDate);
         Appointment GetAppointmentById(int id);
-        List<Appointment> GetAllAppointments();
+        IEnumerable<Appointment> GetAllAppointments();
         void RemoveAppointment(int id);
         void UpdateAppointment(int id, int babyId, int nurseId, DateTime appointmentDate);
     }

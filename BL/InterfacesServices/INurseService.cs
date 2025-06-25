@@ -6,7 +6,7 @@ namespace BL.InterfacesServices
     {
         Nurse GetNurseById(int nurseId);       
         void AddNurse(Nurse newNurse);         
-        List<Nurse> GetAllNurses();            
+        IEnumerable<Nurse> GetAllNurses();            
         void RemoveNurse(int id);              
         void UpdateNurse(int id, string name); 
     }

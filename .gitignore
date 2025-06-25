@@ -16,3 +16,6 @@ obj/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
+
+.vs/
+*.sln

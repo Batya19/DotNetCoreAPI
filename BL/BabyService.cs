@@ -8,7 +8,7 @@ namespace BL
     public class BabyService : IBabyService
     {
         private IDataContext _context;
-
+        
         public BabyService(IDataContext context)
         {
             _context = context;
@@ -30,9 +30,9 @@ namespace BL
             return _context.Babies.FirstOrDefault(b => b.Id == id);
         }
 
-        public List<Baby> GetAllBabies()
+        public IEnumerable<Baby> GetAllBabies()
         {
-            return _context.Babies.ToList();
+            return _context.Babies;
         }
 
         public void RemoveBaby(int id)

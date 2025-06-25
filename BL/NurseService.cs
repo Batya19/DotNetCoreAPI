@@ -28,9 +28,9 @@ namespace BL
             _context.SaveChanges();
         }
 
-        public List<Nurse> GetAllNurses()
+        public IEnumerable<Nurse> GetAllNurses()
         {
-            return _context.Nurses.ToList();
+            return _context.Nurses;
         }
 
         public void RemoveNurse(int id)
